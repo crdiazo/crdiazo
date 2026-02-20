@@ -52,6 +52,7 @@ Mi objetivo es formar parte de un equipo donde pueda aportar soluciones eficient
 ## Conecta conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/crdiazo)
+[![Email](https://img.shields.io/badge/Email-unal.edu.co-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crdiazo@unal.edu.co)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/TU_USUARIO](https://www.instagram.com/cristiandiazort?igsh=eW5mYmUxaGF4ZGhq))
 
 ---
