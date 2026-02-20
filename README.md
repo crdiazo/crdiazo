@@ -49,4 +49,11 @@ Mi objetivo es formar parte de un equipo donde pueda aportar soluciones eficient
 
 ---
 
+## Conecta conmigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/crdiazo)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/TU_USUARIO](https://www.instagram.com/cristiandiazort?igsh=eW5mYmUxaGF4ZGhq))
+
+---
+
 ✨ Siempre en construcción. Siempre aprendiendo.
