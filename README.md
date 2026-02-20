@@ -43,7 +43,7 @@ Actualmente enfocado en:
 
 ---
 
-## 📌 Objetivo Profesional
+## Objetivo Profesional
 
 Mi objetivo es formar parte de un equipo donde pueda aportar soluciones eficientes, seguir aprendiendo constantemente y participar en proyectos que generen impacto real.
 
