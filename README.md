@@ -1,4 +1,4 @@
-# 👨‍💻 Cristian Díaz
+# Hola soy Cristian Díaz
 
 🎓 Estudiante de Ingeniería de Sistemas y Computación – 7° semestre  
 🏛 Universidad Nacional de Colombia  
@@ -9,7 +9,7 @@
 ## Sobre mí
 
 Soy estudiante de Ingeniería de Sistemas y Computación con interés en el desarrollo de software eficiente y bien estructurado.  
-Me gusta entender a profundidad cómo funcionan las cosas, desde la lógica matemática hasta la implementación práctica en código.
+Me gusta entender a profundidad cómo funcionan las cosas, desde la lógica matemática hasta la implementación práctica en código, manejo medianamente el inglés y portugues, actulmemnte en proceso de seguir mejorando.
 
 Actualmente enfocado en:
 - Desarrollo de aplicaciones en Python
